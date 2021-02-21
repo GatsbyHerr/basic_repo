@@ -1,0 +1,15 @@
+open account in GitHub.com
+cd / G
+mkdir remote_repo_assignment
+git init
+cd /remote_repo_assignment
+touch index.html style.css
+get add .
+open file in VSC code
+click on left side corner for file index.html
+add DOCTYPE html
+git add . 
+Save
+git remote ass origin https://github.com/GatsbyHerr/remote_repo_assignment
+git commit -m "remote_repo_assignment"
+git push origin master
